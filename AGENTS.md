@@ -1,5 +1,7 @@
 # Email Studio
 
+@brand/voice.md
+
 This studio is for planning and writing email campaigns for a small business. It holds the brand context, lead lists, campaign drafts, and working notes so an agent can help research, plan, and write emails.
 
 ## Folders
