@@ -1,19 +1,17 @@
-Subject: Your AI capability, behind your brand
-Preview: We build it and run it. You keep the client relationship.
+Subject: The AI capability, behind your brand
+Preview: Built behind your brand, handed over to your team.
 
 Hi {{first_name}},
 
-Your clients are starting to ask for AI work. Right now you either say no, or you hand it to someone you cannot vouch for.
+If a client asks for AI work and you do not have the capability in house, the choice is to decline or to bring in help you cannot vouch for.
 
-We can take that work behind your brand. We scope it, build it, and support it. You keep the client relationship.
-
-You do not need to hire an AI team to sell AI work.
-
-A first project is small: a scoping call, a defined scope, a build, a handover, then support. No new headcount on your side.
+We take that work behind your brand. Our team scopes it, builds it, hands it over, and stays on for support. You keep the client relationship.
 
 If you want to see whether this fits a client of yours, book a 30-minute scoping call.
 
-[Button text](https://zaeem-akhter.vercel.app)
+You do not need to hire an AI team to sell AI work. A first project covers one client request, with no new headcount on your side.
+
+[Book a 30-minute scoping call](https://zaeem-akhter.vercel.app)
 
 Talk soon,
 Zaeem

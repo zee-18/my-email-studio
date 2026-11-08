@@ -23,7 +23,9 @@ The greeting uses the `{{first_name}}` placeholder, for example `Hi {{first_name
 
 The email has exactly one link, written as:
 
-[Button text](https://zaeem-akhter.vercel.app)
+[Book a 30-minute scoping call](https://zaeem-akhter.vercel.app)
+
+The button text names the next step. Never ship placeholder text such as `Button text`.
 
 Do not add a second call to action and do not repeat the link in the body text.
 

@@ -99,7 +99,7 @@ Dates come from the brief. Times assume the owner's timezone; confirm before sch
 | Pre | Fri 4 Dec | Offer facts confirmed: what we build, scope, timeline, price, support | Internal | Blocks all copy | Not started |
 | Pre | Fri 4 Dec | Decide how the client-demand group is identified | Internal | Tag, form question, or folded into no-AI | Not started |
 | Pre | Sat 5 Dec | Send 1 drafted and checked against brand voice | Email | Agent drafts, owner approves | Not started |
-| 1 | Mon 7 Dec | Send 1: "Your AI capability, behind your brand" | All 2,000 | Launch email; one CTA | Not started |
+| 1 | Mon 7 Dec | Send 1: "The AI capability, behind your brand" | All 2,000 | Launch email; one CTA | Not started |
 | 1 | Wed 9 Dec | Send 2: "You do not need an AI team to sell AI work" | No-AI segment | Plain explanation, first project | Not started |
 | 1 | Fri 11 Dec | Reply and question sweep | Inbox | Answer scope, price, timeline questions | Not started |
 | 2 | Tue 15 Dec | Send 3: "From AI experiments to client work you can repeat" | Partial-AI segment | Lead with the gap they already feel | Not started |

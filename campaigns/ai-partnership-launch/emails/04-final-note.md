@@ -1,13 +1,13 @@
-Subject: Last note: book a call by tomorrow
-Preview: This series closes tomorrow, 3 January.
+Subject: Last note: book a call by 3 January
+Preview: Last chance to book a 30-minute scoping call for a January start.
 
 Hi {{first_name}},
 
-This is the last email in this series. It closes tomorrow, 3 January.
+This is the last email in this series. The January booking window closes on 3 January 2027.
 
-If you want to talk about a client request, book a 30-minute scoping call today. If not, nothing is lost. We will write again when the next round opens.
+If you want to talk about a client request, book a 30-minute scoping call. If not, nothing is lost. I will let you know when the next round opens.
 
-[Button text](https://zaeem-akhter.vercel.app)
+[Book a 30-minute scoping call](https://zaeem-akhter.vercel.app)
 
 Talk soon,
 Zaeem
