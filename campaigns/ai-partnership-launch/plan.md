@@ -22,18 +22,18 @@ Owner: [name, TBC]
 
 **Campaign name:** AI partnership launch
 **Summary:** Open our AI partnership to the 2,000-agency waitlist over four weeks of email, with a different message for each of the three agency groups, and a scoping call as the single next step.
-**Primary objective:** 300 waitlist agencies start a paid partnership in the first month, as briefed.
+**Primary objective:** 300 waitlist agencies book a scoping call by 3 January 2027.
 **Secondary objectives:**
-- Book a known number of scoping calls, so pipeline is measurable even when deals close later.
+- Track signed partnerships on a longer window, so the four-week call goal connects to revenue.
 - Learn which of the three groups responds, so the next campaign targets the best one.
 - Produce reusable copy for the first month of partner onboarding.
 
-**Reality check, stated plainly.** 300 of 2,000 is 15%. For a B2B service sold to agency owners over four weeks of email in December, that is a very high bar: these are considered purchases with a call, a scope, and a start date, not a one-click subscription. Treat 300 as a target, not a forecast.
+**Reality check, stated plainly.** 300 calls from 2,000 is 15%. That is a high bar for four weeks of email in December, but this is a call goal, not a closed-deal goal: the call is a 30-minute conversation, not a signed contract. Treat 300 as a target, not a forecast, and watch the show rate.
 
-**Recommended measurement split (your decision before launch):**
+**Measurement split (decided):**
 - 4-week goal: 300 scoping calls booked.
-- Then track closed partnerships on a longer window.
-- Keep the briefed 300-partnership goal only if you accept the risk that the number will mostly represent conversations, not signed work.
+- After the four weeks: track closed partnerships on a longer window.
+- Do not use signed partnerships as the four-week target; the sale needs a call, a scope, and a start date.
 
 **Segment sizes are unknown.** "About 2,000" across three groups, no split. Pull the real counts before setting per-group targets.
 
@@ -50,7 +50,7 @@ They have tried tools or run one or two AI projects, but delivery is not repeata
 Buying stage: consideration to decision. Message job: show the step from experiments to dependable delivery.
 
 ### 2.3 Agencies with a client asking for AI now
-They serve clients and do not sell AI services, but a client has asked for AI work, or will in the next quarter. Right now they either say no or quietly hand the work to a freelancer without a process. They need a partner who can take that work behind their brand and stay accountable for it. This is the highest-intent group and the smallest.
+They serve clients and do not sell AI services, but a client has asked for AI work, or will in the next quarter. Right now they either say no or quietly hand the work to a freelancer without a process. They need a partner who can take that work behind their brand and stay accountable for it. This group has a live client request, so it is the first segment to test. Confirm its size before setting a target.
 Buying stage: decision. Message job: "You have the client. We have the capability." Make the first step a scoping call about that specific request.
 
 **Where they spend time:** their inbox, then a call. Email is the only channel this campaign uses, so the work is subject lines, segment fit, and one clear next step.
@@ -107,7 +107,7 @@ Dates come from the brief. Times assume the owner's timezone; confirm before sch
 | 2 | Sun 20 Dec | Checkpoint 1: calls booked vs. target | Internal | Decide whether week 3 changes | Not started |
 | 3 | Tue 22 Dec | Send 5: resend to non-openers of Send 1 | Non-openers | New subject angle, same offer | Not started |
 | 3 | Mon 28 Dec | Send 6: "January start dates" | Everyone who has not booked | Only if January dates are real | Not started |
-| 4 | Fri 2 Jan | Send 7: final reminder | Non-responders | Keep short; one CTA | Not started |
+| 4 | Sat 2 Jan | Send 7: final reminder | Non-responders | Keep short; one CTA. Saturday send | Not started |
 | 4 | Sun 3 Jan | Campaign close: report and decision | Internal | See Section 7 | Not started |
 
 **Dependencies in plain order:**
@@ -136,15 +136,15 @@ Dates come from the brief. Times assume the owner's timezone; confirm before sch
 
 ## 7. Success Metrics
 
-**Primary KPI (as briefed):** 300 new paid partnerships by 3 January 2027.
+**Primary KPI:** 300 scoping calls booked by 3 January 2027.
 
-**Reality check:** a B2B partnership with a call, a scope, and a start date will not close 300 times in four December weeks by email alone. Decide before launch whether the 4-week number is calls booked or signed work.
+**Reality check:** 300 calls is a high bar for four December weeks by email alone. Track show rate and treat signed partnerships as a longer-window result, not a four-week target.
 
 **Secondary KPIs:**
 
 | Metric | Why it matters | How to track |
 |---|---|---|
-| Scoping calls booked | The real leading indicator | Booking tool |
+| Signed partnerships (longer window) | Whether calls turn into work | CRM |
 | Call show rate | Whether the interest is real | Booking tool plus notes |
 | Proposals sent | Pipeline depth | CRM or call notes |
 | Close rate | Whether the offer fits | CRM |
@@ -175,11 +175,11 @@ If the budget is close to zero, use an existing email tool and a free booking li
 
 ## 9. Risks and Mitigations
 
-1. **300 partnerships in four weeks is not a realistic close rate for B2B services.** The waitlist is warm, but the sale needs a call and a scope.
-   Mitigation: measure calls booked as the four-week goal, track closed deals on a longer window, and use the 20 December checkpoint.
+1. **300 calls in four weeks is a high bar for B2B services in December.** The waitlist is warm, but the sale needs a call and a scope.
+   Mitigation: track calls booked as the four-week goal, watch the show rate, track closed deals on a longer window, and use the 20 December checkpoint.
 2. **December is a holiday month for agency owners.** Replies and call attendance drop in the last two weeks.
-   Mitigation: send the strongest angles in weeks 1 and 2, keep December sends short, and treat January as the real decision window.
-3. **The list may not record who has a client asking for AI now.** Without that tag, the highest-intent group cannot be mailed separately.
+   Mitigation: send the core offer messages in weeks 1 and 2, keep December sends short, and treat January as the real decision window.
+3. **The list may not record who has a client asking for AI now.** Without that tag, the client-demand group cannot be mailed separately.
    Mitigation: add one question to the booking form or use an existing tag before week 2. If neither is possible, fold them into the no-AI message and run two segments instead of three.
 4. **No offer facts on file.** Copy would fill gaps with guesses.
    Mitigation: confirm what we build, scope, timeline, price, and support before any draft is final. Bracketed placeholders stay until then.
@@ -192,7 +192,7 @@ If the budget is close to zero, use an existing email tool and a free booking li
 
 1. Owner confirms the offer: what we build, scope, timeline, price, and support.
 2. Decide how the client-demand group is identified: a tag, a form question, or folded into no-AI.
-3. Decide whether the 4-week target is 300 calls booked or 300 signed partnerships.
+3. Agree the longer window for tracking signed partnerships after the four-week call goal.
 4. Confirm the "small" budget figure, the email platform, and the booking tool.
 5. Build segments, publish the one-pager and booking page, and test-book a call.
 6. Agent drafts Send 1 and Send 2, checked against `brand/voice.md`.
@@ -206,4 +206,4 @@ If the budget is close to zero, use an existing email tool and a free booking li
 - How do we identify agencies with a client asking for AI now: a tag, a form question, or not at all?
 - How many waitlist agencies are in each of the three groups?
 - Which email platform, sending domain, and booking tool will be used?
-- Is 300 a calls-booked goal or a signed-partnership goal for the four weeks?
+- What is the longer window for tracking signed partnerships after the four-week call goal?
