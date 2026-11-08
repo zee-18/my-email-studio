@@ -1,4 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "instructions": ["brand/voice.md"]
+  "instructions": ["brand/voice.md", ".claude/rules/*.md"]
 }
