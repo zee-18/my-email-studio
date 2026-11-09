@@ -1,39 +1,39 @@
 {
   "findings": [
     {
-      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/01-launch.md",
-      "line": 12,
-      "severity": "medium",
-      "problem": "The sentence refers to 'those experiments,' but the email only mentions running 'AI tools,' so the reference has no antecedent.",
-      "fix": "Replace 'those experiments' with a clear reference such as 'that early AI work' or 'one of those tool trials.'"
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 6,
+      "severity": "high",
+      "problem": "The email guarantees results (\"We guarantee it removes 100% of the busywork\"), which brand/voice.md forbids outright.",
+      "fix": "Remove the guarantee and state what we will actually do, e.g. \"We take the repetitive production work off your team and hand back finished deliverables.\""
     },
     {
-      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/03-january-start.md",
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 6,
+      "severity": "high",
+      "problem": "It claims \"most agencies see a 40% revenue lift in the first month\", an invented revenue number and promised lift that brand/voice.md never allows.",
+      "fix": "Delete the 40% lift claim and replace it with a concrete, provable statement about scope or process, with no numbers or implied outcomes."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 9,
+      "severity": "high",
+      "problem": "A second link and second call to action (\"See the detox plan\") breaks the one-link rule in emails.md.",
+      "fix": "Delete line 9 so the email contains only the single scoping-call link."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 8,
       "severity": "medium",
-      "problem": "The CTA paragraph says 'We will look at the request,' but this email never mentions a client request; it is about turning experiments into repeatable work.",
-      "fix": "Change 'the request' to 'the work' or 'what you want to build' so it refers to the experiments described above."
+      "problem": "The link text is \"Claim your spot\" instead of the required \"Book a 30-minute scoping call\", so it does not name the next step.",
+      "fix": "Change line 8 to exactly `[Book a 30-minute scoping call](https://zaeem-akhter.vercel.app)`."
     },
     {
-      "file": "campaigns/ai-partnership-launch/groups/client demand/emails/04-final-note.md",
-      "line": 6,
-      "severity": "medium",
-      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
-      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
-    },
-    {
-      "file": "campaigns/ai-partnership-launch/groups/no ai service/emails/04-final-note.md",
-      "line": 6,
-      "severity": "medium",
-      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
-      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
-    },
-    {
-      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/04-final-note.md",
-      "line": 6,
-      "severity": "medium",
-      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
-      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 1,
+      "severity": "low",
+      "problem": "The subject uses \"Last chance\" urgency hype and a vague \"detox\" label rather than saying what the work is, against the direct, practical voice.",
+      "fix": "Replace with a plain subject naming the offer, e.g. \"Subject: Partner with us on AI delivery\" (keep it within 50 characters including \"Subject: \")."
     }
   ]
 }
