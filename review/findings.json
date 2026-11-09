@@ -1,0 +1,39 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/01-launch.md",
+      "line": 12,
+      "severity": "medium",
+      "problem": "The sentence refers to 'those experiments,' but the email only mentions running 'AI tools,' so the reference has no antecedent.",
+      "fix": "Replace 'those experiments' with a clear reference such as 'that early AI work' or 'one of those tool trials.'"
+    },
+    {
+      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/03-january-start.md",
+      "line": 8,
+      "severity": "medium",
+      "problem": "The CTA paragraph says 'We will look at the request,' but this email never mentions a client request; it is about turning experiments into repeatable work.",
+      "fix": "Change 'the request' to 'the work' or 'what you want to build' so it refers to the experiments described above."
+    },
+    {
+      "file": "campaigns/ai-partnership-launch/groups/client demand/emails/04-final-note.md",
+      "line": 6,
+      "severity": "medium",
+      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
+      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
+    },
+    {
+      "file": "campaigns/ai-partnership-launch/groups/no ai service/emails/04-final-note.md",
+      "line": 6,
+      "severity": "medium",
+      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
+      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
+    },
+    {
+      "file": "campaigns/ai-partnership-launch/groups/partial ai service/emails/04-final-note.md",
+      "line": 6,
+      "severity": "medium",
+      "problem": "The sentence claims a 'final chance this winter,' but the email only establishes a 3 January booking window and says a next round will open, so the winter-wide urgency is unsupported.",
+      "fix": "Drop the 'final chance this winter' framing and state the concrete deadline, e.g. 'This is the last email in this series. The January booking window closes on 3 January 2027.'"
+    }
+  ]
+}

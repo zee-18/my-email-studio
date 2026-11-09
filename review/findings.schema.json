@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Email review findings",
+  "type": "object",
+  "properties": {
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "file": {
+            "type": "string",
+            "description": "Path to the email file with the problem."
+          },
+          "line": {
+            "type": "number",
+            "description": "1-based line number in that file."
+          },
+          "severity": {
+            "type": "string",
+            "enum": ["high", "medium", "low"]
+          },
+          "problem": {
+            "type": "string",
+            "description": "What is wrong, in one sentence."
+          },
+          "fix": {
+            "type": "string",
+            "description": "The concrete change that fixes it."
+          }
+        },
+        "required": ["file", "line", "severity", "problem", "fix"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["findings"],
+  "additionalProperties": false
+}
