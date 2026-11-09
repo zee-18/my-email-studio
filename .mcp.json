@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "resend": {
+      "command": "npx",
+      "args": ["-y", "resend-mcp@2.27.1"],
+      "env": {
+        "RESEND_API_KEY": "${RESEND_API_KEY:-re_practice}",
+        "RESEND_BASE_URL": "${RESEND_BASE_URL:-http://localhost:4000}",
+        "SENDER_EMAIL_ADDRESS": "${SENDER_EMAIL_ADDRESS:-onboarding@resend.dev}"
+      }
+    }
+  }
+}
