@@ -1,4 +1,4 @@
-Subject: The AI capability, behind your brand
+Subject: Dependable delivery of client AI work
 Preview: Built behind your brand, handed over to your team.
 
 Hi {{first_name}},
